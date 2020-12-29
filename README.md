@@ -62,11 +62,11 @@ __double underscores__
 ~~cancelline~~
 
 
-![Alt text](.images/00.png)
-![Alt text](.images/01.png "Optional title")
 
-<img src=".images/02.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src=".images/03.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+![Alt text](/images/001.png "Optional title")
+
+<img src="/images/02.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="/images/03.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 
 * 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸이상을 띄어쓰기해야 한다. 
