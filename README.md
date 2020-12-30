@@ -26,6 +26,14 @@
 end code block.aa
 
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+[[toc]]2
+
 <pre><code>{aaaaa = 1}</code></pre>
 
 
@@ -39,7 +47,21 @@ end code block.aa
 
 ---------------------------------------
 
+::: tip
+팁
+:::
 
+::: warning
+경고
+:::
+
+::: danger
+위험
+:::
+
+::: danger 위험
+위험
+:::
 
 [link keyword][id]
 
